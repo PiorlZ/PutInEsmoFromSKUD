@@ -1,0 +1,12 @@
+certifi==2021.5.30
+charset-normalizer==2.0.4
+click==8.0.1
+colorama==0.4.4
+cx-Oracle==8.2.1
+cx-PyGenLib==3.2
+flanders==0.3.0
+idna==3.2
+importlib-metadata==4.6.3
+pycurl @ file:///C:/Users/student1/Desktop/PutInEsmoFromSKUD/source/pycurl-7.43.0.5-cp39-cp39-win_amd64.whl
+requests==2.26.0
+urllib3==1.26.6
